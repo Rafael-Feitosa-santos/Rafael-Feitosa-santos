@@ -2,7 +2,6 @@
 <ul>
   <li>👨🏾‍💻 Estudante Análise e Desenvolvimento de Sistema na FIAP</li>
   <li>🚀 Aprendendo constantemente e explorando o vasto universo da programação.</li>
-  <li>🛠️ Ferramentas que costumo usar: VS Code, Git, GitHub, e uma pitada de bom humor no código.</li>
 </ul>
 
 <h2>Language and tools 🖥️</h2>
@@ -18,16 +17,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
 </div>
 
 
 <h2>GitHub Stats 📊</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael-feitosa-santos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-feitosa-santos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=rafael-feitosa-santos&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-feitosa-santos&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
 
 <h2>Contato 📬</h2>
 
