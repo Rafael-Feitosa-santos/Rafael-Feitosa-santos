@@ -1,10 +1,10 @@
 <h1 align="center">Olá! Eu sou o Rafael Feitosa 🖐🏾</h1> 
 <ul>
   <li>👨🏾‍💻 Estudante Análise e Desenvolvimento de Sistema na FIAP</li>
-  <li>🚀 Aprendendo constantemente e explorando o vasto universo da programação.</li>
+  <li>🚀 Aprendendo constantemente e explorando o vasto universo da programação. </li>
 </ul>
 
-<h2>Language and tools 🖥️</h2>
+<h2>Language and tools 🖥️🛠️</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
