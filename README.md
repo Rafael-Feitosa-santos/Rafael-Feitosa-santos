@@ -1,4 +1,9 @@
 <h1 align="center">Olá! Eu sou o Rafael Feitosa 🖐🏾</h1> 
+<ul>
+  <li>👨🏾‍💻 Estudante Análise e Desenvolvimento de Sistema na FIAP</li>
+  <li>🚀 Aprendendo constantemente e explorando o vasto universo da programação.</li>
+  <li>🛠️ Ferramentas que costumo usar: VS Code, Git, GitHub, e uma pitada de bom humor no código.</li>
+</ul>
 
 <h2>Language and tools 🖥️</h2>
 <div align="left">
@@ -13,7 +18,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 </div>
+
 
 <h2>GitHub Stats 📊</h2>
 
