@@ -28,7 +28,6 @@
 <h2>GitHub Stats 📊</h2>
 
 ![rafael-feitosa-santos's Stats](https://github-readme-stats.vercel.app/api?username=rafael-feitosa-santos&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![rafael-feitosa-santos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafael-feitosa-santos&theme=tokyonight&hide_border=false)
 ![rafael-feitosa-santos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-feitosa-santos&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <h2>Contato 📬</h2>
