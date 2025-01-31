@@ -3,7 +3,7 @@
 ![Badge Sempre Aprendendo](http://img.shields.io/static/v1?label=STATUS&message=SEMPRE%20APRENDENDO&color=GREEN&style=for-the-badge)
 
 <ul>
-  <li>👨🏾‍💻 Estudante Análise e Desenvolvimento de Sistema na FIAP</li>
+  <li>👨🏾‍💻 Formando em Análise e Desenvolvimento de Sistema na FIAP</li>
   <li>🚀 Aprendendo constantemente e explorando o vasto universo da programação. </li>
 </ul>
 
