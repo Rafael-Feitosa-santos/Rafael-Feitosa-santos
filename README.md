@@ -33,8 +33,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="40" alt="spring boot"/>          
   <img width="12" />
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg"  height="50" alt="Fastapi"/>
+  <img width="12" />
 </div>
 
 
